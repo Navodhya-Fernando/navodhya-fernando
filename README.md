@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Navodhya Fernando <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
-<h3 align="center">Data & Web Systems Engineer | Applied Intelligence</h3>
+<h3 align="center">Data & Web Systems Engineer | Data Science Undergraduate</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Navodhya-Fernando&color=302340" alt="Profile views" />
