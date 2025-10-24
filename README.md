@@ -7,7 +7,7 @@
 
 <div>
 
-<h2> The Profile </h2>
+<h2 align="center"> The Profile </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -25,7 +25,7 @@
 
 <div> 
 
-<h2>🛠️ The Stack</h2>
+<h2 align="center"> The Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +53,7 @@
 
 <div>
 
-<h2> Connect & View Portfolios </h2>
+<h2 align="center"> Connect & View Portfolios </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/navodhya-fernando-">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
@@ -66,18 +66,7 @@
 
 <div>
 
-<h2> Github Activity </h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Navodhya-Fernando&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=title" alt="Navodhya's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navodhya-Fernando&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-</div>
-
-<div>
-
-<h2> My Holopin Board </h2>
+<h2 align="center"> My Holopin Board </h2>
 
 [![An image of @navodhyafernando's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodhyafernando)](https://holopin.io/@navodhyafernando)
 
