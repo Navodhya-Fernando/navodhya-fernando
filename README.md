@@ -11,7 +11,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on a new GPT Model for Job Seekers in Australia
+- 🔭 I’m currently working on a new Project Management System
 
 - 🌱 I’m a Data Science Undergraduate
 
