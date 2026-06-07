@@ -5,12 +5,12 @@
 </a>
 
 <a href="https://github.com/Navodhya-Fernando">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=18&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=800&height=36&lines=Data+%26+Web+Systems+Engineer+at+Dreamshift+Inc." alt="Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=18&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=800&height=36&lines=Data+%26+Web+Systems+Engineer+at+DreamShift+Inc." alt="Data & Web Systems Engineer"/>
 </a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=RAG+Agents+%C2%B7+Serverless+AI+%C2%B7+Cloudflare+Workers;Predictive+Analytics+%C2%B7+Statistical+Modeling;Full-Stack+Systems+%C2%B7+25%2B+Production+Builds;Currently%3A+Building+an+Automated+ETL+%26+Marketing+Forecasting+Pipeline)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=Data+Engineering+%C2%B7+AI+Systems+%C2%B7+Business+Intelligence;RAG+Agents+%C2%B7+ETL+Pipelines+%C2%B7+Dashboards;Currently%3A+Marketing+Intelligence+%26+Forecasting+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,26 +21,19 @@
 
 </div>
 
-
 ---
 
-## 🧠 &nbsp; About Me
-
-<div align="center">
+## SYSTEM PROFILE
 
 <table width="100%">
 <tr>
-<td width="68%" valign="top">
+<td width="62%" valign="top">
 
-<h3>Building the layer between raw data and real decisions.</h3>
+### I build systems that turn scattered data into decisions.
 
-<p>
-I design data and web systems that collect scattered information, structure it into usable pipelines, and turn it into dashboards, AI workflows, and automated business actions.
-</p>
+I work across the full data-to-product layer: collecting information from different sources, transforming it into reliable pipelines, and turning it into dashboards, AI workflows, and automation that teams can actually use.
 
-<p>
-My work sits at the intersection of <b>data engineering</b>, <b>AI systems</b>, <b>business intelligence</b>, and <b>internal product development</b>.
-</p>
+My current focus is building a multi-source marketing intelligence system that connects ads, analytics, CRM, and business data into one decision layer.
 
 </td>
 <td width="32%" valign="top">
@@ -58,46 +51,70 @@ My work sits at the intersection of <b>data engineering</b>, <b>AI systems</b>, 
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/01-Ingestion-1E1B4B?style=flat-square" /><br/>
-  <b>Collect</b><br/>
-  <sub>Ads · Analytics · CRM · Web Data</sub>
+<td width="25%" align="center">
+
+**01 · Data Systems**  
+<sub>ETL · BigQuery · integrations</sub>
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/02-Transformation-312E81?style=flat-square" /><br/>
-  <b>Structure</b><br/>
-  <sub>ETL · BigQuery · Data Models</sub>
+<td width="25%" align="center">
+
+**02 · AI Workflows**  
+<sub>RAG · agents · retrieval</sub>
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/03-Intelligence-4338CA?style=flat-square" /><br/>
-  <b>Understand</b><br/>
-  <sub>Dashboards · KPIs · Forecasting</sub>
+<td width="25%" align="center">
+
+**03 · Product Tools**  
+<sub>dashboards · internal systems</sub>
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/04-Automation-6366F1?style=flat-square" /><br/>
-  <b>Act</b><br/>
-  <sub>Workflows · RAG · Decision Layers</sub>
+<td width="25%" align="center">
+
+**04 · Decision Layer**  
+<sub>KPIs · forecasting · automation</sub>
+
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
+## CURRENT BUILD
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+### Multi-Source Marketing Intelligence System
+
+A business intelligence layer that connects marketing, analytics, CRM, and client data into one system for performance tracking, forecasting, and faster decision-making.
+
+</td>
+<td width="30%" valign="top">
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-6366F1?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Forecasting-A78BFA?style=for-the-badge)
+![Layer](https://img.shields.io/badge/Layer-Decision%20Systems-818CF8?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 ```mermaid
 flowchart LR
-    A[Raw Data] --> B[ETL Pipelines]
-    B --> C[Data Warehouse]
-    C --> D[Dashboards]
-    C --> E[AI / RAG Workflows]
-    D --> F[Business Decisions]
-    E --> F
+    A[Ad Platforms] --> D[Data Layer]
+    B[Analytics] --> D
+    C[CRM] --> D
+    D --> E[ETL Pipeline]
+    E --> F[Dashboards]
+    E --> G[Forecasting]
+    G --> H[Decision Layer]
 ```
 
 ---
 
-## 💼 &nbsp; Experience
+## PROFESSIONAL TIMELINE
 
 <div align="center">
 
@@ -187,7 +204,7 @@ flowchart LR
 
 ---
 
-## 🎓 &nbsp; Education
+## LEARNING PATH
 
 <div align="center">
 
@@ -195,11 +212,11 @@ flowchart LR
 <tr>
 <td width="45%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/2025-2026-6366F1?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/2024-2025-6366F1?style=for-the-badge&labelColor=1e1b4b" />
 
 <br/><br/>
 
-<h3>HND in Data Science</h3>
+<h3>Advanced Diploma in Data Science</h3>
 <b>National Innovation Centre — NIBM</b><br/>
 <sub>Sri Lanka</sub>
 
@@ -211,11 +228,11 @@ flowchart LR
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/2024-2025-818CF8?style=for-the-badge&labelColor=312e81" />
+<img src="https://img.shields.io/badge/2025-2026-818CF8?style=for-the-badge&labelColor=312e81" />
 
 <br/><br/>
 
-<h3>Advanced Diploma in Data Science</h3>
+<h3>HND in Data Science</h3>
 <b>National Innovation Centre — NIBM</b><br/>
 <sub>Sri Lanka</sub>
 
@@ -227,23 +244,17 @@ flowchart LR
 
 ---
 
-## 🚀 &nbsp; Featured Projects
-
-<div align="center">
+## SELECTED BUILDS
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔄 ETL Marketing Pipeline <code>In Progress</code></h3>
+### 🔄 ETL Marketing Pipeline
 
-<b>Multi-source data pipeline for marketing intelligence.</b>
+**Marketing intelligence pipeline for forecasting and KPI tracking.**
 
-<br/><br/>
-
-Connects ads, analytics, and CRM data into a forecasting-ready dashboard layer for KPI monitoring and trend analysis.
-
-<br/><br/>
+Connects ads, analytics, and CRM data into a cleaned reporting layer for dashboarding, trend monitoring, and decision support.
 
 <a href="https://github.com/Navodhya-Fernando">
   <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
@@ -251,23 +262,19 @@ Connects ads, analytics, and CRM data into a forecasting-ready dashboard layer f
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Forecasting-EC4899?style=flat-square" />
-<img src="https://img.shields.io/badge/Dashboard-6366F1?style=flat-square" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-8B5CF6?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-EC4899?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Dashboard-6366F1?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 Live AI Chatbot — DreamShift</h3>
+### 🤖 Live AI Chatbot — DreamShift
 
-<b>Serverless RAG agent for customer support workflows.</b>
+**Serverless RAG agent for customer support workflows.**
 
-<br/><br/>
-
-Built with Cloudflare Workers, vector search, Markdown knowledge bases, and human-fallback routing.
-
-<br/><br/>
+Built with Cloudflare Workers, vector search, Markdown knowledge bases, and human-fallback routing for real business use.
 
 <a href="https://github.com/Navodhya-Fernando/Live-AI-Chatbot-for-DreamShift">
   <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
@@ -275,25 +282,20 @@ Built with Cloudflare Workers, vector search, Markdown knowledge bases, and huma
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Wrangler-F97316?style=flat-square" />
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
+![Wrangler](https://img.shields.io/badge/Wrangler-F97316?style=flat-square)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>📊 SEO / SEM Dashboard</h3>
+### 📊 SEO / SEM Dashboard
 
-<b>Marketing performance intelligence layer.</b>
+**Performance dashboard for marketing and search intelligence.**
 
-<br/><br/>
-
-Combines GA4, Meta Pixel, and Search Console data into one dashboard for performance tracking and decision support.
-
-<br/><br/>
+Combines GA4, Meta Pixel, and Search Console signals into a dashboard layer for tracking growth, traffic quality, and campaign performance.
 
 <a href="https://github.com/Navodhya-Fernando/seo-sem-_dashboard">
   <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
@@ -301,22 +303,18 @@ Combines GA4, Meta Pixel, and Search Console data into one dashboard for perform
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Meta%20Pixel-0467DF?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Meta Pixel](https://img.shields.io/badge/Meta%20Pixel-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>👥 DreamShift EMS</h3>
+### 👥 DreamShift EMS
 
-<b>Full-stack employee management system.</b>
+**Internal employee management system for operational workflows.**
 
-<br/><br/>
-
-Internal product system with employee lifecycle tracking, operational workflows, and reporting dashboards.
-
-<br/><br/>
+A full-stack system for employee lifecycle tracking, structured operations, workflow visibility, and reporting support.
 
 <a href="https://github.com/Navodhya-Fernando/dreamshift-ems">
   <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
@@ -324,25 +322,20 @@ Internal product system with employee lifecycle tracking, operational workflows,
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎓 The Online Kuppiya</h3>
+### 🎓 The Online Kuppiya
 
-<b>MERN Q&A platform for Sri Lankan university students.</b>
+**MERN Q&A platform for Sri Lankan university students.**
 
-<br/><br/>
-
-Includes authentication, gamified leaderboards, a reputation engine, and student-focused knowledge sharing.
-
-<br/><br/>
+Built around authentication, student knowledge sharing, gamified leaderboards, and a reputation-based contribution system.
 
 <a href="https://github.com/Navodhya-Fernando/The-Online-Kuppiya">
   <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
@@ -350,22 +343,18 @@ Includes authentication, gamified leaderboards, a reputation engine, and student
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚽ PitchLink — Euro 2024</h3>
+### ⚽ PitchLink — Euro 2024
 
-<b>Sports analytics and match forecasting engine.</b>
+**Sports analytics engine for match and condition-based forecasting.**
 
-<br/><br/>
-
-Models pitch conditions, match context, and tactical variables for football/cricket-style forecasting experiments.
-
-<br/><br/>
+Explores tactical context, pitch conditions, and statistical variables to support sports prediction experiments.
 
 <a href="https://github.com/Navodhya-Fernando/PitchLink---Euro-2024">
   <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
@@ -373,25 +362,25 @@ Models pitch conditions, match context, and tactical variables for football/cric
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistical%20Modeling-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/Forecasting-EC4899?style=flat-square" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-10B981?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-EC4899?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
 <a href="https://github.com/Navodhya-Fernando?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%2025%2B%20Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20All%20Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🛠️ &nbsp; Tech Stack
+## TECH STACK
 
 <div align="center">
 
@@ -431,48 +420,27 @@ Models pitch conditions, match context, and tactical variables for football/cric
 
 ---
 
-## 📊 &nbsp; GitHub Stats
+## GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Navodhya-Fernando&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Navodhya-Fernando&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Navodhya-Fernando&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navodhya-Fernando&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="94%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navodhya-Fernando&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="94%" alt="Contribution Activity"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Navodhya-Fernando&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-## 🐍 &nbsp; Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navodhya-Fernando/Navodhya-Fernando/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Navodhya-Fernando/Navodhya-Fernando/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Navodhya-Fernando/Navodhya-Fernando/output/github-contribution-grid-snake-dark.svg" width="94%"/>
-</picture>
 </div>
 
 ---
 
 <div align="center">
 
-*Building systems that turn data into decisions.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navodhya-fernando-)
+<i>Building systems that turn data into decisions.</i>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navodhya-fernando-)
 
 </div>
