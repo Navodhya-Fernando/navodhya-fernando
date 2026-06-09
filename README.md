@@ -244,139 +244,133 @@ flowchart LR
 
 ---
 
-## SELECTED BUILDS
+## Featured Projects
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 ETL Marketing Pipeline
+### The Online Kuppiya
 
-**Marketing intelligence pipeline for forecasting and KPI tracking.**
+A MERN-based Q&A and learning platform for Sri Lankan university students, built around authentication, community knowledge sharing, gamified contribution, and leaderboard features.
 
-Connects ads, analytics, and CRM data into a cleaned reporting layer for dashboarding, trend monitoring, and decision support.
+**Shows:** full-stack development, authentication, database design, product thinking
 
-<a href="https://github.com/Navodhya-Fernando">
-  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Navodhya-Fernando/The-Online-Kuppiya">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### DreamShift EMS
+
+An internal employee management system designed to support structured employee records, operational workflows, and business process visibility.
+
+**Shows:** business systems, CRUD workflows, full-stack application design
+
+<a href="https://github.com/Navodhya-Fernando/dreamshift-ems">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### F1 DataLens
+
+A data visualization and analytics project focused on Formula 1 data, designed to explore race patterns, performance insights, and sports data storytelling.
+
+**Shows:** data analytics, visualization, sports intelligence, insight generation
+
+<a href="https://github.com/Navodhya-Fernando/F1-DataLens">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-8B5CF6?style=flat-square)
-![Forecasting](https://img.shields.io/badge/Forecasting-EC4899?style=flat-square)
-![Dashboard](https://img.shields.io/badge/Dashboard-6366F1?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-6366F1?style=flat-square)
+![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics-10B981?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Live AI Chatbot — DreamShift
+### DreamShift Industry Dashboard
 
-**Serverless RAG agent for customer support workflows.**
+A business intelligence dashboard designed to analyze industry-level data and support better strategic decision-making through visual reporting.
 
-Built with Cloudflare Workers, vector search, Markdown knowledge bases, and human-fallback routing for real business use.
+**Shows:** BI development, dashboard design, business analytics, reporting systems
+
+<a href="https://github.com/Navodhya-Fernando/dreamshift-industry-dashboard">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Dashboard](https://img.shields.io/badge/Dashboard-6366F1?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-8B5CF6?style=flat-square)
+![Analytics](https://img.shields.io/badge/Analytics-10B981?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Survey Dashboard
+
+A dashboard project for turning survey responses into structured insights through data cleaning, analysis, and visual reporting.
+
+**Shows:** data collection, research analysis, dashboarding, insight communication
+
+<a href="https://github.com/Navodhya-Fernando/survey-dashboard">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2563EB?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Dashboard-6366F1?style=flat-square)
+![Research](https://img.shields.io/badge/Research%20Insights-EC4899?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### Live AI Chatbot for DreamShift
+
+A serverless AI chatbot built for business support workflows using structured knowledge bases, retrieval logic, and human-fallback routing.
+
+**Shows:** AI workflow design, serverless architecture, RAG concepts, business automation
 
 <a href="https://github.com/Navodhya-Fernando/Live-AI-Chatbot-for-DreamShift">
-  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
-![Wrangler](https://img.shields.io/badge/Wrangler-F97316?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 SEO / SEM Dashboard
-
-**Performance dashboard for marketing and search intelligence.**
-
-Combines GA4, Meta Pixel, and Search Console signals into a dashboard layer for tracking growth, traffic quality, and campaign performance.
-
-<a href="https://github.com/Navodhya-Fernando/seo-sem-_dashboard">
-  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
-![Meta Pixel](https://img.shields.io/badge/Meta%20Pixel-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 DreamShift EMS
-
-**Internal employee management system for operational workflows.**
-
-A full-stack system for employee lifecycle tracking, structured operations, workflow visibility, and reporting support.
-
-<a href="https://github.com/Navodhya-Fernando/dreamshift-ems">
-  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 The Online Kuppiya
-
-**MERN Q&A platform for Sri Lankan university students.**
-
-Built around authentication, student knowledge sharing, gamified leaderboards, and a reputation-based contribution system.
-
-<a href="https://github.com/Navodhya-Fernando/The-Online-Kuppiya">
-  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ PitchLink — Euro 2024
-
-**Sports analytics engine for match and condition-based forecasting.**
-
-Explores tactical context, pitch conditions, and statistical variables to support sports prediction experiments.
-
-<a href="https://github.com/Navodhya-Fernando/PitchLink---Euro-2024">
-  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-10B981?style=flat-square)
-![Forecasting](https://img.shields.io/badge/Forecasting-EC4899?style=flat-square)
+![AI Workflow](https://img.shields.io/badge/AI%20Workflow-8B5CF6?style=flat-square)
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<a href="https://github.com/Navodhya-Fernando?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
